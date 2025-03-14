@@ -62,6 +62,11 @@ body {
   outline: 0 !important;
 }
 
+.barra {
+  background: linear-gradient(to right, #9cc43a, #c7367a, #632577);
+
+}
+
 .poppins-thin {
   font-family: "Poppins", sans-serif;
   font-weight: 100;
